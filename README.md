@@ -24,4 +24,4 @@ Ini adalah proyek **UTS Pemrograman Web 2024** yang bertujuan untuk membangun se
 - **Bootstrap 5**
 - **GitHub Pages**: Untuk hosting website secara online.
 
-## Visit: muionn.github.io
+## [Check out the project website](https://muionn.github.io/)
